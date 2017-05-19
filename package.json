@@ -1,0 +1,23 @@
+{
+  "name": "proj14",
+  "version": "1.0.0",
+  "description": "mo",
+  "main": "index.js",
+  "scripts": {
+    "test": "rrr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcinosuch/proj14.git"
+  },
+  "author": "MO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcinosuch/proj14/issues"
+  },
+  "homepage": "https://github.com/marcinosuch/proj14#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
